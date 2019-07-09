@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from datetime import datetime, timedelta
+# Não poderia ter usado estes módulos, ratiei!
 
 def change_date(date: str, op: str, value: int) -> str:
     operations = ('+', '-')
